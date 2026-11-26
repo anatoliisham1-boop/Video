@@ -262,5 +262,143 @@
       "bg2": "#0d1218",
       "accent": "#d9a066"
     }
+  },
+  {
+    "id": "portfolio-kawiarnia",
+    "business": "Portfolio (fikcyjny przykład)",
+    "where": "-",
+    "source": "-",
+    "video": {
+      "hook": "Twoja poranna kawa czeka",
+      "featuresTitle": "Dlaczego warto wpaść?",
+      "features": [
+        "Kawa speciality z lokalnej palarni",
+        "Świeże wypieki każdego dnia",
+        "Wi-Fi i miejsce do pracy"
+      ],
+      "name": "Twoja Kawiarnia",
+      "tagline": "Kawa · wypieki · dobry klimat",
+      "cta": "Wpadnij dziś",
+      "address": "Warszawa",
+      "bg1": "#3b2a1e",
+      "bg2": "#1c130c",
+      "accent": "#e9c48b",
+      "watermark": false
+    }
+  },
+  {
+    "id": "portfolio-pizzeria",
+    "business": "Portfolio (fikcyjny przykład)",
+    "where": "-",
+    "source": "-",
+    "video": {
+      "hook": "Głodny? Pizza w 30 minut",
+      "featuresTitle": "Twoja Pizzeria",
+      "features": [
+        "Ciasto na zakwasie, piec opalany drewnem",
+        "Dostawa w 30 minut",
+        "Pizza dnia od 29 zł"
+      ],
+      "name": "Twoja Pizzeria",
+      "tagline": "Neapolitańska pizza w Warszawie",
+      "cta": "Zamów teraz",
+      "address": "Dostawa: cała Warszawa",
+      "bg1": "#3a1414",
+      "bg2": "#1a0808",
+      "accent": "#ffb347",
+      "watermark": false
+    }
+  },
+  {
+    "id": "portfolio-fitness",
+    "business": "Portfolio (fikcyjny przykład)",
+    "where": "-",
+    "source": "-",
+    "video": {
+      "hook": "Zacznij od pierwszego treningu za darmo",
+      "featuresTitle": "Co dostajesz:",
+      "features": [
+        "Trener personalny od pierwszego dnia",
+        "Otwarte 6:00–23:00",
+        "Karnet od 99 zł/mies."
+      ],
+      "name": "Twoja Siłownia",
+      "tagline": "Fitness · trening personalny",
+      "cta": "Odbierz darmowy trening",
+      "address": "Warszawa",
+      "bg1": "#0f2a1f",
+      "bg2": "#07140f",
+      "accent": "#5ee8a0",
+      "watermark": false
+    }
+  },
+  {
+    "id": "portfolio-remont",
+    "business": "Portfolio (fikcyjny przykład)",
+    "where": "-",
+    "source": "-",
+    "video": {
+      "hook": "Remont mieszkania bez stresu?",
+      "featuresTitle": "Jak pracujemy:",
+      "features": [
+        "Bezpłatna wycena w 24\u00a0h",
+        "Stała cena w umowie",
+        "Gwarancja na wszystkie prace"
+      ],
+      "name": "Twoja Ekipa Remontowa",
+      "tagline": "Remonty mieszkań · Warszawa",
+      "cta": "Zamów wycenę",
+      "address": "Warszawa i okolice",
+      "bg1": "#1f2a3a",
+      "bg2": "#0e141c",
+      "accent": "#f5c542",
+      "watermark": false
+    }
+  },
+  {
+    "id": "portfolio-kwiaty",
+    "business": "Portfolio (fikcyjny przykład)",
+    "where": "-",
+    "source": "-",
+    "video": {
+      "hook": "Kwiaty, które mówią więcej niż słowa",
+      "featuresTitle": "Twoja Kwiaciarnia",
+      "features": [
+        "Bukiety na każdą okazję",
+        "Dostawa tego samego dnia",
+        "Zamówienia przez Instagram"
+      ],
+      "name": "Twoja Kwiaciarnia",
+      "tagline": "Bukiety · dekoracje · dostawa",
+      "cta": "Zamów bukiet",
+      "address": "Warszawa",
+      "bg1": "#2e1f3a",
+      "bg2": "#140c1c",
+      "accent": "#f7a8d8",
+      "watermark": false
+    }
+  },
+  {
+    "id": "portfolio-auto",
+    "business": "Portfolio (fikcyjny przykład)",
+    "where": "-",
+    "source": "-",
+    "video": {
+      "hook": "Twoje auto znów jak nowe",
+      "featuresTitle": "Detailing w Warszawie",
+      "features": [
+        "Mycie ręczne i woskowanie",
+        "Czyszczenie tapicerki",
+        "Odbiór auta spod domu"
+      ],
+      "name": "Twój Detailing",
+      "tagline": "Myjnia ręczna · detailing",
+      "cta": "Umów termin",
+      "address": "Warszawa",
+      "bg1": "#141a24",
+      "bg2": "#080b10",
+      "accent": "#4fc3f7",
+      "watermark": false
+    }
   }
 ]
