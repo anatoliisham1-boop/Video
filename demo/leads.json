@@ -1,0 +1,66 @@
+[
+  {
+    "id": "split-barbershop",
+    "business": "SPLIT Barbershop PL BY UA",
+    "where": "Ursynów, ul. Pieskowa Skała 13",
+    "source": "https://booksy.com/pl-pl/191802_split-barbershop-pl-by-ua_barber-shop_3_warszawa",
+    "video": {
+      "hook": "Szukasz dobrego barbera na Ursynowie?",
+      "featuresTitle": "Dlaczego SPLIT?",
+      "features": ["Ocena 4,9 na Booksy", "Ponad 4000 opinii klientów", "Strzyżenie od 99 zł"],
+      "name": "SPLIT Barbershop",
+      "tagline": "PL by UA · Ursynów",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Pieskowa Skała 13, Warszawa",
+      "bg1": "#141414", "bg2": "#0a0a0a", "accent": "#e8b04b"
+    }
+  },
+  {
+    "id": "kulakov-barbershop",
+    "business": "Kulakov Barbershop",
+    "where": "Ursynów i Zamienie",
+    "source": "https://kulakov.send-pulse.com/en",
+    "video": {
+      "hook": "Strzyżenie przed pracą? Albo po 21:00?",
+      "featuresTitle": "Kulakov Barbershop",
+      "features": ["Otwarte pn–sob 7:00–22:00", "Dwa salony: Ursynów i Zamienie", "Od strzyżenia po royal shave"],
+      "name": "Kulakov Barbershop",
+      "tagline": "Twój barber, kiedy masz czas",
+      "cta": "Umów wizytę",
+      "address": "Ursynów · Zamienie",
+      "bg1": "#1b2430", "bg2": "#0d1218", "accent": "#d9a066"
+    }
+  },
+  {
+    "id": "piekna-ty",
+    "business": "Piękna Ty Beauty Salon",
+    "where": "Warszawa (Wola)",
+    "source": "https://booksy.com/pl-pl/109547_piekna-ty-beauty-salon_medycyna-estetyczna_3_warszawa",
+    "video": {
+      "hook": "Czas na chwilę tylko dla siebie",
+      "featuresTitle": "W Piękna Ty czeka na Ciebie:",
+      "features": ["Medycyna estetyczna", "Profesjonalna pielęgnacja", "Wygodne zapisy online"],
+      "name": "Piękna Ty",
+      "tagline": "Beauty Salon · Warszawa",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "Warszawa, Wola",
+      "bg1": "#3a1f2b", "bg2": "#1a0d14", "accent": "#f2a7c3"
+    }
+  },
+  {
+    "id": "kawiarnia-szablon",
+    "business": "Szablon dla dowolnej kawiarni (zmień nazwę i adres)",
+    "where": "-",
+    "source": "-",
+    "video": {
+      "hook": "Najlepsza kawa w okolicy? Sprawdź sam",
+      "featuresTitle": "Co nas wyróżnia:",
+      "features": ["Świeżo palona kawa speciality", "Domowe ciasta codziennie", "Miejsce do pracy i spotkań"],
+      "name": "Twoja Kawiarnia",
+      "tagline": "Kawa · ciasta · dobry klimat",
+      "cta": "Wpadnij dziś",
+      "address": "ul. Przykładowa 1, Warszawa",
+      "bg1": "#3b2a1e", "bg2": "#1c130c", "accent": "#e9c48b"
+    }
+  }
+]
