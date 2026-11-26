@@ -7,12 +7,18 @@
     "video": {
       "hook": "Szukasz dobrego barbera na Ursynowie?",
       "featuresTitle": "Dlaczego SPLIT?",
-      "features": ["Ocena 4,9 na Booksy", "Ponad 4000 opinii klientów", "Strzyżenie od 99 zł"],
+      "features": [
+        "Ocena 4,9 na Booksy",
+        "Ponad 4000 opinii klientów",
+        "Strzyżenie od 99 zł"
+      ],
       "name": "SPLIT Barbershop",
       "tagline": "PL by UA · Ursynów",
       "cta": "Zarezerwuj na Booksy",
       "address": "ul. Pieskowa Skała 13, Warszawa",
-      "bg1": "#141414", "bg2": "#0a0a0a", "accent": "#e8b04b"
+      "bg1": "#141414",
+      "bg2": "#0a0a0a",
+      "accent": "#e8b04b"
     }
   },
   {
@@ -23,12 +29,18 @@
     "video": {
       "hook": "Strzyżenie przed pracą? Albo po 21:00?",
       "featuresTitle": "Kulakov Barbershop",
-      "features": ["Otwarte pn–sob 7:00–22:00", "Dwa salony: Ursynów i Zamienie", "Od strzyżenia po royal shave"],
+      "features": [
+        "Otwarte pn–sob 7:00–22:00",
+        "Dwa salony: Ursynów i Zamienie",
+        "Od strzyżenia po royal shave"
+      ],
       "name": "Kulakov Barbershop",
       "tagline": "Twój barber, kiedy masz czas",
       "cta": "Umów wizytę",
       "address": "Ursynów · Zamienie",
-      "bg1": "#1b2430", "bg2": "#0d1218", "accent": "#d9a066"
+      "bg1": "#1b2430",
+      "bg2": "#0d1218",
+      "accent": "#d9a066"
     }
   },
   {
@@ -39,12 +51,18 @@
     "video": {
       "hook": "Czas na chwilę tylko dla siebie",
       "featuresTitle": "W Piękna Ty czeka na Ciebie:",
-      "features": ["Medycyna estetyczna", "Profesjonalna pielęgnacja", "Wygodne zapisy online"],
+      "features": [
+        "Medycyna estetyczna",
+        "Profesjonalna pielęgnacja",
+        "Wygodne zapisy online"
+      ],
       "name": "Piękna Ty",
       "tagline": "Beauty Salon · Warszawa",
       "cta": "Zarezerwuj na Booksy",
       "address": "Warszawa, Wola",
-      "bg1": "#3a1f2b", "bg2": "#1a0d14", "accent": "#f2a7c3"
+      "bg1": "#3a1f2b",
+      "bg2": "#1a0d14",
+      "accent": "#f2a7c3"
     }
   },
   {
@@ -55,12 +73,194 @@
     "video": {
       "hook": "Najlepsza kawa w okolicy? Sprawdź sam",
       "featuresTitle": "Co nas wyróżnia:",
-      "features": ["Świeżo palona kawa speciality", "Domowe ciasta codziennie", "Miejsce do pracy i spotkań"],
+      "features": [
+        "Świeżo palona kawa speciality",
+        "Domowe ciasta codziennie",
+        "Miejsce do pracy i spotkań"
+      ],
       "name": "Twoja Kawiarnia",
       "tagline": "Kawa · ciasta · dobry klimat",
       "cta": "Wpadnij dziś",
       "address": "ul. Przykładowa 1, Warszawa",
-      "bg1": "#3b2a1e", "bg2": "#1c130c", "accent": "#e9c48b"
+      "bg1": "#3b2a1e",
+      "bg2": "#1c130c",
+      "accent": "#e9c48b"
+    }
+  },
+  {
+    "id": "nails-lounge",
+    "business": "Nails Lounge",
+    "where": "Targówek, Radzymińska 129b",
+    "source": "https://booksy.com/pl-pl/s/paznokcie/31993_targowek",
+    "video": {
+      "hook": "Piękne paznokcie na Targówku?",
+      "featuresTitle": "Dlaczego Nails Lounge?",
+      "features": [
+        "Ocena 5,0 na Booksy",
+        "161 zadowolonych klientek",
+        "Manicure klasyczny od 80 zł"
+      ],
+      "name": "Nails Lounge",
+      "tagline": "Manicure · Targówek",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Radzymińska 129b, Warszawa",
+      "bg1": "#3a1f2b",
+      "bg2": "#1a0d14",
+      "accent": "#f2a7c3"
+    }
+  },
+  {
+    "id": "fazy-na-pazy",
+    "business": "Fazy Na Pazy",
+    "where": "Targówek, Radzymińska 109/U2",
+    "source": "https://booksy.com/pl-pl/s/paznokcie/31993_targowek",
+    "video": {
+      "hook": "Twoje paznokcie zasługują na więcej",
+      "featuresTitle": "Fazy Na Pazy",
+      "features": [
+        "Ocena 5,0 na Booksy",
+        "Ponad 100 opinii",
+        "Wygodne zapisy online"
+      ],
+      "name": "Fazy Na Pazy",
+      "tagline": "Paznokcie · Targówek",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Radzymińska 109/U2, Warszawa",
+      "bg1": "#3a1f2b",
+      "bg2": "#1a0d14",
+      "accent": "#f2a7c3"
+    }
+  },
+  {
+    "id": "nails-with-love",
+    "business": "Nails With Love Paulina Zalewska",
+    "where": "Białołęka, Skarbka z Gór 57",
+    "source": "https://booksy.com/pl-pl/s/paznokcie-zelowe/28472_bialoleka",
+    "video": {
+      "hook": "Paznokcie żelowe na Białołęce?",
+      "featuresTitle": "Nails With Love",
+      "features": [
+        "Ocena 4,9 na Booksy",
+        "Ponad 200 opinii",
+        "Zapisy online w kilka sekund"
+      ],
+      "name": "Nails With Love",
+      "tagline": "Paulina Zalewska · Białołęka",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Skarbka z Gór 57, Warszawa",
+      "bg1": "#3a1f2b",
+      "bg2": "#1a0d14",
+      "accent": "#f2a7c3"
+    }
+  },
+  {
+    "id": "piekne-paznokcie",
+    "business": "Piękne Paznokcie Salon Urody",
+    "where": "Białołęka, Głębocka 15",
+    "source": "https://booksy.com/pl-pl/s/paznokcie/28472_bialoleka",
+    "video": {
+      "hook": "Manicure hybrydowy blisko domu?",
+      "featuresTitle": "Piękne Paznokcie",
+      "features": [
+        "Ocena 4,8 na Booksy",
+        "Manicure hybrydowy 100 zł",
+        "Salon urody na Białołęce"
+      ],
+      "name": "Piękne Paznokcie",
+      "tagline": "Salon Urody · Białołęka",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Głębocka 15, Warszawa",
+      "bg1": "#3a1f2b",
+      "bg2": "#1a0d14",
+      "accent": "#f2a7c3"
+    }
+  },
+  {
+    "id": "studio-norbert",
+    "business": "Studio Norbert",
+    "where": "Ursus, Tomcia Palucha 37",
+    "source": "https://booksy.com/pl-pl/s/fryzjer/32077_ursus",
+    "video": {
+      "hook": "Dobry fryzjer w Ursusie?",
+      "featuresTitle": "Studio Norbert",
+      "features": [
+        "Ocena 4,9 na Booksy",
+        "Ponad 120 opinii",
+        "Strzyżenie męskie od 50 zł"
+      ],
+      "name": "Studio Norbert",
+      "tagline": "Fryzjer · Ursus",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Tomcia Palucha 37, Warszawa",
+      "bg1": "#1f2a3a",
+      "bg2": "#0e141c",
+      "accent": "#8fc7e8"
+    }
+  },
+  {
+    "id": "barbers-room",
+    "business": "Barbers Room",
+    "where": "Włochy, Obywatelska 1 lok. U8",
+    "source": "https://booksy.com/pl-pl/s/barber-shop/32231_wlochy",
+    "video": {
+      "hook": "Szukasz barbera we Włochach?",
+      "featuresTitle": "Dlaczego Barbers Room?",
+      "features": [
+        "Ocena 5,0 na Booksy",
+        "Ponad 150 opinii",
+        "Strzyżenie męskie 85 zł"
+      ],
+      "name": "Barbers Room",
+      "tagline": "Barber · Warszawa Włochy",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Obywatelska 1 lok. U8, Warszawa",
+      "bg1": "#141414",
+      "bg2": "#0a0a0a",
+      "accent": "#e8b04b"
+    }
+  },
+  {
+    "id": "salon-lusia",
+    "business": "Salon Fryzjerski LUSIA",
+    "where": "Ochota, Tarczyńska 3",
+    "source": "https://booksy.com/pl-pl/s/fryzjer/30685_ochota",
+    "video": {
+      "hook": "Fryzjer na Ochocie z oceną 5,0",
+      "featuresTitle": "Salon LUSIA",
+      "features": [
+        "Ocena 5,0 na Booksy",
+        "Strzyżenie męskie 60 zł",
+        "Zapisy online"
+      ],
+      "name": "Salon LUSIA",
+      "tagline": "Salon Fryzjerski · Ochota",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Tarczyńska 3, Warszawa",
+      "bg1": "#1f2a3a",
+      "bg2": "#0e141c",
+      "accent": "#8fc7e8"
+    }
+  },
+  {
+    "id": "enzo-barbers",
+    "business": "Enzo Barbers",
+    "where": "Bemowo, Powstańców Śląskich 61",
+    "source": "https://booksy.com/pl-pl/s/stylizacja-wlosow-u-barbera/28444_bemowo",
+    "video": {
+      "hook": "Najlepszy barber na Bemowie?",
+      "featuresTitle": "Enzo Barbers",
+      "features": [
+        "Ocena 5,0 na Booksy",
+        "Ponad 1800 opinii",
+        "Strzyżenie i broda"
+      ],
+      "name": "Enzo Barbers",
+      "tagline": "Barber · Bemowo",
+      "cta": "Zarezerwuj na Booksy",
+      "address": "ul. Powstańców Śląskich 61, Warszawa",
+      "bg1": "#1b2430",
+      "bg2": "#0d1218",
+      "accent": "#d9a066"
     }
   }
 ]
